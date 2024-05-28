@@ -1,2 +1,3 @@
 print("hola")
-print("Adios")
+print("Adios") #HOLA
+print("Chao")
