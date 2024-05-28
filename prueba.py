@@ -1,3 +1,3 @@
-print("hola")
-print("Adios") #HOLA
-print("Chao")
+print("hola2")
+print("Adios2") #HOLA
+print("Chao2")
